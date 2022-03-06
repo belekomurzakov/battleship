@@ -24,6 +24,6 @@ Battleship game built for my EBC-PJ - Java Programming Language course.
 ├─ helper/                      # Helper text, which is loading on start
 ├─ save/                        # Saved the states of the game
 ├─ .gitignore                   # List of files and folders not tracked by Git
-├─ build.gradle                 # Build configuration, tasks, and plugins are described in this file
+├─ build.gradle                 # Build configuration, tasks, and plugins
 └─ README.md                    # This file
 ```
